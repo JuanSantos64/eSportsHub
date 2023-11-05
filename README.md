@@ -16,7 +16,7 @@ Nossa HomePage conteria as informações sobre os próximos jogos, contendo o ho
   
 Nessa pagina contem os jogos que são contemplados no nosso app.
 - 👤 Players
-  
+   
 Nessa pagina contem os players dos times, nela contem informações detalhadas sobre os players, como nome, idade, etc.
 
 - 👥 Teams
@@ -47,20 +47,28 @@ Nossa API contém as seguintes informações:
 Nossa API de jogadores contém as seguintes informações:
 
 - id
+  
 Contém a identificação dos jogadores
 - nickJogador
+  
 Contém o nick dos jogadores
 - nameJogador
+  
 Contém o nome verdadeiro dos jogadores
 - countryJogador
+  
 Contém o local de nascimento dos jogadores
 - birthdayJogador
+  
 Contém a data de aniversário dos jogadores
 - photoJogador
+  
 Contém a foto dos jogadores
 - teamJogador
+  
 Contém o time que os jogadores jogam
 - teamPhotoJogador
+  
 Contém a foto do time que os jogadores jogam
 
 Um exemplo do uso dessa API é a seguinte:
@@ -82,15 +90,20 @@ Um exemplo do uso dessa API é a seguinte:
 ## 🕹 Jogos 
 Nossa API de jogos contém as seguintes informações
 
-- id 
+- id
+  
 Contém a identificação dos jogos
 - nameJogos
+  
 Contém o nome dos jogos
-- desenvolvedoraJogos 
+- desenvolvedoraJogos
+  
 Contém o nome da desenvolvedora dos jogos
 - descricaoJogos
+  
 Contém uma breve descrição sobre os jogos
-- photoJogos 
+- photoJogos
+  
 Contém uma foto dos jogos
 
 Um exemplo do uso dessa API é a seguinte: 
@@ -107,11 +120,14 @@ Um exemplo do uso dessa API é a seguinte:
 ## 👥 Times
 
 Nossa API de times contém as seguintes informações:
-- id 
+- id
+  
 Contém a identificação dos times
 - nomeTime
+  
 Contém o nome dos times
 - photoTime
+  
 Contém a foto dos times
 
 Um exemplo do uso dessa API é a seguinte: 
@@ -124,17 +140,23 @@ Um exemplo do uso dessa API é a seguinte:
 ```
 ## 🏆 Torneios
 Nossa API de Torneios contém as seguintes informações:
-- id 
+- id
+  
 Contém a identificação dos Torneios
 - nomeCampeonato
+  
 Contém o nome dos Torneios
 - imagemCampeonato
+  
 Contém a imagem dos Torneios
 - logoCampeonato
+  
 Contém o logo dos Torneios
 - descricaoCampeonato
+  
 Contém uma breve descrição sobre os Torneios
 - logoDoJogo
+  
 Contém o logo do jogo que pertence aos Torneios
 
 Um exemplo do uso dessa API é a seguinte: 
@@ -158,10 +180,21 @@ Um exemplo do uso dessa API é a seguinte:
 Nosso trabalho em equipe foi fundamental para a realização desse projeto, quero destacar o comprometimento de todos em tornar o app algo unico e divertido.
 
 Agradeço a nossa equipe:
-- [André Veras Fernandes](https://www.linkedin.com/in/andre-veras-fernandes/)
-- [João Vitor Teixeira Lechinovski](https://www.linkedin.com/in/joãolechinovski/)
-- [Juan Augusto Dias Santos](https://www.linkedin.com/in/juan-santos-28a001288/)
-- [Kauan Feitoza Mendes](https://www.linkedin.com/in/kauanfm123/)
+- André Veras Fernandes
+  
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andre-veras-fernandes/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/AndreVerasFernandes)
 
-
+- João Vitor Teixeira Lechinovski
+  
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joãolechinovski/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Lechinovski)
+- Juan Augusto Dias Santos
+  
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-santos-28a001288/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/JuanSantos64)
+- Kauan Feitoza Mendes
+  
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauanfm123/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/KauanFM)
 
