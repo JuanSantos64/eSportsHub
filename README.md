@@ -10,15 +10,20 @@ Esse projeto foi feito no [Projeto Hackatruck](https://hackatruck.com.br), nos f
 Nosso protótipo inicial constituia em 5 telas:
 
 - 🏠 Home
+  
 Nossa HomePage conteria as informações sobre os próximos jogos, contendo o horário do jogo, dia, liga e os times que se enfrentariam.
 - 🕹 Games
+  
 Nessa pagina contem os jogos que são contemplados no nosso app.
-- 👤 Players 
+- 👤 Players
+  
 Nessa pagina contem os players dos times, nela contem informações detalhadas sobre os players, como nome, idade, etc.
 
 - 👥 Teams
+  
 Nessa pagina contém os times, nela contém informações detalhadas sobre os times, em quais campeonatos eles participam e os players dessa equipe.
 -  🏆 Leagues
+  
 Nessa pagina contém os campeonatos, nela contém informações detalhadas sobre os campeonatos, ondem ocorrem, quais os times participatem e as premiações.
 
  ### Esse é o protótipo final feito:
@@ -42,20 +47,28 @@ Nossa API contém as seguintes informações:
 Nossa API de jogadores contém as seguintes informações:
 
 - id
+  
 Contém a identificação dos jogadores
 - nickJogador
+  
 Contém o nick dos jogadores
 - nameJogador
+  
 Contém o nome verdadeiro dos jogadores
 - countryJogador
+  
 Contém o local de nascimento dos jogadores
 - birthdayJogador
+  
 Contém a data de aniversário dos jogadores
 - photoJogador
+  
 Contém a foto dos jogadores
 - teamJogador
+  
 Contém o time que os jogadores jogam
 - teamPhotoJogador
+  
 Contém a foto do time que os jogadores jogam
 
 Um exemplo do uso dessa API é a seguinte:
@@ -77,15 +90,20 @@ Um exemplo do uso dessa API é a seguinte:
 ## 🕹 Jogos 
 Nossa API de jogos contém as seguintes informações
 
-- id 
+- id
+  
 Contém a identificação dos jogos
 - nameJogos
+  
 Contém o nome dos jogos
-- desenvolvedoraJogos 
+- desenvolvedoraJogos
+  
 Contém o nome da desenvolvedora dos jogos
 - descricaoJogos
+  
 Contém uma breve descrição sobre os jogos
-- photoJogos 
+- photoJogos
+  
 Contém uma foto dos jogos
 
 Um exemplo do uso dessa API é a seguinte: 
@@ -102,11 +120,14 @@ Um exemplo do uso dessa API é a seguinte:
 ## 👥 Times
 
 Nossa API de times contém as seguintes informações:
-- id 
+- id
+  
 Contém a identificação dos times
 - nomeTime
+  
 Contém o nome dos times
 - photoTime
+  
 Contém a foto dos times
 
 Um exemplo do uso dessa API é a seguinte: 
@@ -119,17 +140,23 @@ Um exemplo do uso dessa API é a seguinte:
 ```
 ## 🏆 Torneios
 Nossa API de Torneios contém as seguintes informações:
-- id 
+- id
+  
 Contém a identificação dos Torneios
 - nomeCampeonato
+  
 Contém o nome dos Torneios
 - imagemCampeonato
+  
 Contém a imagem dos Torneios
 - logoCampeonato
+  
 Contém o logo dos Torneios
 - descricaoCampeonato
+  
 Contém uma breve descrição sobre os Torneios
 - logoDoJogo
+  
 Contém o logo do jogo que pertence aos Torneios
 
 Um exemplo do uso dessa API é a seguinte: 
